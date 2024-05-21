@@ -5,7 +5,7 @@ Jiménez, M. I., Abbott, P., & Foster, K. (2018). Measurement and Analysis of Ag
 
 
 ## Working Papers
-Hillberry R. and Jimenez M. “Geography and Trade Composition in Islands and Landlocked Countries”
+Hillberry R. and Jimenez M. (2024) “Geography and Trade Composition in Islands and Landlocked Countries”
 
 Hillberry R. and Jimenez M. (2023) “Economic Consequences of Cabotage Restrictions: The Effect of the Jones Act on Puerto Rico”
 
@@ -21,6 +21,8 @@ Hillberry R. and Jimenez M. “Hubs in Maritime Shipping”.
 
 
 ## Non-Peer-Review and Selected Press Articles
+Hillberry, R., & Jimenez, M. I. (2024). The Effect of the Jones Act on Puerto Rico. CATO Research Briefs in Economic Policy. April 24, 2024. Vol 380
+
 Clavijo S., Jimenez M. and Vera N. (2014), Apertura Comercial y Desafios Portuarios para Colombia – (Trade Openness and Challenges for Maritime Ports in Colombia), _Revista Carta de Anif_ No. 166, abril/junio de 2014.
 
 Clavijo S., Vera A. and Jim´enez M. (2012), Apertura comercial e infraestructura: ¿Como aprovechar la llegada de los TLCs?” – (Trade Openness and Infrastructure: ¿How to Get the Best Out of the FTAs?), _Revista Carta de Anif_ No. 158, abril/junio de 2012.
