@@ -1,7 +1,9 @@
 <p align="justify">Hi, I am an economist with research interests in International Trade and empirical Industrial Organization. My research agenda focuses on topics on the intersection between trade frictions, economic geography, supply chains and shipping markets.</p>
 
 ## Publications
-Jiménez, M. I., Abbott, P., & Foster, K. (2018). Measurement and Analysis of Agricultural Productivity in Colombia. _Ecos de Economía_, 22(47), 4-37. ([Paper](https://publicaciones.eafit.edu.co/index.php/ecos-economia/article/view/5743/4501))
+Jimenez, M. I. (2023). MARITIME SHIPPING IN INTERNATIONAL TRADE (Doctoral dissertation, Purdue University Graduate School). ([Document](https://hammer.purdue.edu/articles/thesis/MARITIME_SHIPPING_IN_INTERNATIONAL_TRADE/23524311/1))
+
+Jimenez, M. I., Abbott, P., & Foster, K. (2018). Measurement and Analysis of Agricultural Productivity in Colombia. _Ecos de Economía_, 22(47), 4-37. ([Paper](https://publicaciones.eafit.edu.co/index.php/ecos-economia/article/view/5743/4501))
 
 
 ## Working Papers
