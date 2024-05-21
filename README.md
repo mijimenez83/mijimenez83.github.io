@@ -17,10 +17,11 @@ Jimenez M. (2022). “Trade Costs and Mark-Ups in Maritime Shipping”.
 ## Works in Progress
 Cardoso D. Hillberry R. Jimenez M. Xiong H. and Ji Yong Kwon. ”A Global Agricultural Supply-DemandClimate-Trade Model Calibrated to Baseline”.
 
-Hillberry R. and Jimenez M. “Protectionism and Service Quality in Service Industries: a Quantitative Case of U.S. Maritime Shipping”.
+Hillberry R. and Jimenez M. Protectionism and Service Quality in Service Industries: a Quantitative Case of U.S. Maritime Shipping.
 
-Hillberry R. and Jimenez M. “Hubs in Maritime Shipping”. 
+Hillberry R. and Jimenez M. Hubs in Maritime Shipping. 
 
+Jimenez M. and Lopex E. Impact of Global Food Supply Structure on healthier Sustainable Diets 
 
 ## Non-Peer-Review and Selected Press Articles
 Hillberry, R., & Jimenez, M. I. (2024). The Effect of the Jones Act on Puerto Rico. CATO Research Briefs in Economic Policy. April 24, 2024. Vol 380
