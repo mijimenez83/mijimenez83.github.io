@@ -7,12 +7,11 @@ Jimenez, M. I., Abbott, P., & Foster, K. (2018). Measurement and Analysis of Agr
 
 
 ## Working Papers
-Hillberry R. and Jimenez M. (2023). Economic Consequences of Cabotage Restrictions: The Effect of the Jones Act on Puerto Rico.
+Hillberry R. and Jimenez M. (2023). Economic Consequences of Cabotage Restrictions: The Effect of the Jones Act on Puerto Rico. ([Paper](/Papers//ja_working_paper_april2_2024.pdf))
 
 Hillberry R. and Jimenez M. (2024). Geography and Trade Composition in Islands and Landlocked Countries.([Preliminary Version](/Papers//2024-03-22 Paper Geography, Transport_MWITC 2024.pdf)) 
 
 Jimenez M. (2021). Trade Costs and Mark-Ups in Maritime Shipping.([Preliminary Version](/Papers//2021-04-19 Shipping Mark-ups_MJ.pdf))
-
 
 
 ## Works in Progress
