@@ -11,7 +11,7 @@ Hillberry R. and Jimenez M. (2024). Geography and Trade Composition in Islands a
 
 Hillberry R. and Jimenez M. (2023). Economic Consequences of Cabotage Restrictions: The Effect of the Jones Act on Puerto Rico.
 
-Jimenez M. (2022). Trade Costs and Mark-Ups in Maritime Shipping.([Preliminary Version]("mijimenez83.github.io/Papers//2021-04-19 Shipping Mark-ups_MJ.pdf"))
+Jimenez M. (2022). Trade Costs and Mark-Ups in Maritime Shipping.([Preliminary Version](mijimenez83.github.io/Papers//2021-04-19 Shipping Mark-ups_MJ.pdf))
 
 
 
