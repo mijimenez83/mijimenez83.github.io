@@ -1,4 +1,4 @@
-<p align="justify">Hi, I am an International Trade economist with research interests in topics on the intersection between trade frictions, economic geography, supply chains and shipping markets.</p>
+<p align="justify">Hi, I am an International Trade economist with research interests in (1) quantifying market trade frictions and distortions in global shipping markets, and (2) evaluating the role of economic geography in countries' participation in global supply chains.</p>
 
 ## Publications
 Jimenez, M. I. (2023). MARITIME SHIPPING IN INTERNATIONAL TRADE (Doctoral dissertation, Purdue University Graduate School). ([Document](https://hammer.purdue.edu/articles/thesis/MARITIME_SHIPPING_IN_INTERNATIONAL_TRADE/23524311/1))
