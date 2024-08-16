@@ -23,7 +23,7 @@ Hillberry R. and Jimenez M. Protectionism and Service Quality in Service Industr
 
 Hillberry R. and Jimenez M. Hubs in Maritime Shipping. 
 
-Dalheimer B, Jimenez M. and Lopez E. Impact of Global Food Supply Structure on Healthier Sustainable Diets 
+Dalheimer B, Jimenez M. and Lopez E. Impact of Global Food Supply Structure on Healthier Sustainable Diets. 
 
 ## Non-Peer-Review and Selected Press Articles
 Hillberry, R., & Jimenez, M. I. (2024). The Effect of the Jones Act on Puerto Rico. CATO Research Briefs in Economic Policy. April 24, 2024. Vol 380
