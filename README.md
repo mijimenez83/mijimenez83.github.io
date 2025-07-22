@@ -1,4 +1,4 @@
-<p align="justify">Hi, I am an International Trade economist with research interests in (1) quantifying market trade frictions and distortions in global shipping markets, and (2) evaluating the role of economic geography in countries' participation in global supply chains.</p>
+<p align="justify">Hi, I am an International Trade economist with research interests in (1) quantifying trade frictions and distortions in global shipping markets, and (2) analyzing how economic geography shapes countries' export specialization and integration into global supply chains.</p>
 
 ## Publications
 Jimenez, M. I. (2023). MARITIME SHIPPING IN INTERNATIONAL TRADE (Doctoral dissertation, Purdue University Graduate School). ([Document](https://hammer.purdue.edu/articles/thesis/MARITIME_SHIPPING_IN_INTERNATIONAL_TRADE/23524311/1))
@@ -9,13 +9,13 @@ Jimenez, M. I., Abbott, P., & Foster, K. (2018). Measurement and Analysis of Agr
 ## Working Papers
 Hillberry, Russell Henry and Jimenez, Manuel I. (2024) Economic Consequences of Cabotage Restrictions: The Effect of the Jones Act on Puerto Rico (English). Policy Research working paper, No. WPS 10780; PROSPERITY Washington, D.C.: World Bank Group. ([Paper](https://documents1.worldbank.org/curated/en/099257005212415735/pdf/IDU15b5b7ebd10471140061b90610cb9b5695bc1.pdf)) ([Replication Package](https://tinyurl.com/2h8wchb8))
 
-Hillberry R. and Jimenez M. (2024).Geography, Transport and the Composition of Trade. ([Preliminary Version](/Papers//2024-03-22 Paper Geography, Transport_MWITC 2024.pdf)) 
+Hillberry R. and Jimenez M. (2024).Geography, Transport and the Composition of Trade. ([Draft Version](/Papers//Von_Thunen_ETSG_2025.pdf)) 
 
 Jimenez M. (2021). Trade Costs and Mark-Ups in Maritime Shipping.([Preliminary Version](/Papers//2021-04-19 Shipping Mark-ups_MJ.pdf))
 
 
 ## Works in Progress
-Hillberry R. and Jimenez M. Geography and Global Trade Specialization.
+Hillberry R. and Jimenez M. Geography and Islands' Export Pattern of Specialization.
 
 Cardoso D. Hillberry R. Jimenez M. Xiong H. and Ji Yong Kwon. A Global Agricultural Supply-Demand Climate-Trade Model Calibrated to Baseline.
 
