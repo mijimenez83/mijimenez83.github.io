@@ -9,7 +9,7 @@ Jimenez, M. I., Abbott, P., & Foster, K. (2018). Measurement and Analysis of Agr
 ## Working Papers
 Hillberry, Russell Henry and Jimenez, Manuel I. (2024) Economic Consequences of Cabotage Restrictions: The Effect of the Jones Act on Puerto Rico (English). Policy Research working paper, No. WPS 10780; PROSPERITY Washington, D.C.: World Bank Group. ([Paper](https://documents1.worldbank.org/curated/en/099257005212415735/pdf/IDU15b5b7ebd10471140061b90610cb9b5695bc1.pdf)) ([Replication Package](https://tinyurl.com/2h8wchb8))
 
-Hillberry R., & Bilgehan K. (2025).Geography, Transport and the Composition of Trade. ([Preliminary Version](/Papers//Von_Thunen_ETSG_2025.pdf)) 
+Hillberry R.,  Jimenez M (2025). Geographic Disadvantage and the Composition of Trade. ([Preliminary Version](/Papers//Von_Thunen_ETSG_2025.pdf)) 
 
 Hillberry R., Jimenez M., & Bilgehan K. (2025).Geography, Transport and the Composition of Trade. ([Draft Version](/Papers//Von_Thunen_ETSG_2025.pdf)) 
 
