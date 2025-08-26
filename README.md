@@ -17,7 +17,7 @@ Jimenez M. (2021). Trade Costs and Mark-Ups in Maritime Shipping.([Preliminary V
 
 
 ## Works in Progress
-Cardoso D. Hillberry R. Jimenez M. Xiong H. and Ji Yong Kwon. A Global Agricultural Supply-Demand Climate-Trade Model Calibrated to Baseline.
+Cardoso D. Hillberry R. Jimenez M. Xiong H. and Ji Yong Kwon. A Global Agricultural Supply-Demand Climate Trade Model Calibrated to Baseline.
 
 Hillberry R. and Jimenez M. Protectionism and Service Quality in Service Industries: a Quantitative Case of U.S. Maritime Shipping.
 
