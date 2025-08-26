@@ -11,7 +11,7 @@ Hillberry, Russell Henry and Jimenez, Manuel I. (2024) Economic Consequences of 
 
 Hillberry R., & Jimenez M (2025). Geographic Disadvantage and the Composition of Trade. ([Preliminary Version](Papers//2025-08-25_Paper_IS_LL.pdf)) 
 
-Hillberry R., Jimenez M., & Bilgehan K. (2025).Geography, Transport and the Composition of Trade. ([Draft Version](/Papers//Von_Thunen_ETSG_2025.pdf)) 
+Hillberry R., Jimenez M., & Bilgehan K. (2025). Geography, Transport and the Composition of Trade. ([Draft Version](/Papers//Von_Thunen_ETSG_2025.pdf)) 
 
 Jimenez M. (2021). Trade Costs and Mark-Ups in Maritime Shipping.([Preliminary Version](/Papers//2021-04-19 Shipping Mark-ups_MJ.pdf))
 
