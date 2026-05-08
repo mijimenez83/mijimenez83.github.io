@@ -1,4 +1,6 @@
-<p align="justify">Hi, I am an international trade economist. My research examines how trade costs, market structure, and economic geography shape global trade patterns, production decisions, and welfare. I use structural and quantitative economic models to study trade frictions and the transmission of global policy, supply, and demand shocks through international trade and commodity markets.</p>
+<p align="justify">Hi, I am an international trade economist. My research examines how trade costs, market structure, and economic geography shape global trade patterns, production decisions, and welfare. I use structural and quantitative economic models to study trade frictions and the transmission of global policy, supply, and demand shocks through international trade and commodity markets.
+  
+Hola, soy economista especializado en comercio internacional. Mi investigación analiza cómo los costos de comercio, la estructura de mercado y la geografía económica influyen en los patrones del comercio global, las decisiones de producción y el bienestar económico. Utilizo modelos económicos estructurales y cuantitativos para estudiar las fricciones al comercio y la transmisión de choques de política, oferta y demanda a través del comercio internacional y los mercados de commodities.</p>
 
 ## Publications
 Jimenez, M. I. (2023). MARITIME SHIPPING IN INTERNATIONAL TRADE (Doctoral dissertation, Purdue University Graduate School). ([Document](https://hammer.purdue.edu/articles/thesis/MARITIME_SHIPPING_IN_INTERNATIONAL_TRADE/23524311/1))
